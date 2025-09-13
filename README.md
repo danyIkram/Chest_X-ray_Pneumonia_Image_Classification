@@ -42,8 +42,14 @@ We used the publicly available **Chest X-ray Images (Pneumonia)** dataset from [
 ⚠️ **Limitation:** Some normal images are misclassified (false positives), which may lead to unnecessary re-checks, but this is often preferred over missing pneumonia cases.
 
 ---
-## 🎥 Demo Video
+## 🩺 Demo Screenshots
 
-Watch the demo of the Streamlit web application:
+### 1. App Before Upload
+![App Homepage](assets/screenshot_home.png)
 
-[![Watch the demo]](https://drive.google.com/uc?export=view&id=1MAKSVzQKty2Z_DfO3l_2NiAIlQOMGnJE)
+### 2. Detecting a Pneumonia Case
+![Pneumonia Detected](assets/screenshot_pneumonia.png)
+
+### 3. Detecting a Normal Case
+![Normal Detected](assets/screenshot_normal.png)
+
