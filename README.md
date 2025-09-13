@@ -23,9 +23,6 @@ We used the publicly available **Chest X-ray Images (Pneumonia)** dataset from [
 
 ---
 
-[Watch Demo Video](https://drive.google.com/file/d/1MAKSVzQKty2Z_DfO3l_2NiAIlQOMGnJE/view?usp=sharing)
-
-
 ## Model Performance
 
 ### Confusion Matrix (Test Set)
@@ -45,7 +42,8 @@ We used the publicly available **Chest X-ray Images (Pneumonia)** dataset from [
 ⚠️ **Limitation:** Some normal images are misclassified (false positives), which may lead to unnecessary re-checks, but this is often preferred over missing pneumonia cases.
 
 ---
-<video width="600" controls>
-  <source src="https://drive.google.com/file/d/1MAKSVzQKty2Z_DfO3l_2NiAIlQOMGnJE/view?usp=sharing" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo Video
+
+Watch the demo of the Streamlit web application:
+
+[![Watch the demo]](https://drive.google.com/uc?export=view&id=1MAKSVzQKty2Z_DfO3l_2NiAIlQOMGnJE)
