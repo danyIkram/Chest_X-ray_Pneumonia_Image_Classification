@@ -23,6 +23,9 @@ We used the publicly available **Chest X-ray Images (Pneumonia)** dataset from [
 
 ---
 
+[Watch Demo Video](https://drive.google.com/file/d/1MAKSVzQKty2Z_DfO3l_2NiAIlQOMGnJE/view?usp=sharing)
+
+
 ## Model Performance
 
 ### Confusion Matrix (Test Set)
